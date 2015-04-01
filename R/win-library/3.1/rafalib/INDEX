@@ -1,0 +1,11 @@
+as.fumeric              as factor then numeric
+imagemat                image of a matrix
+imagesort               image with sorted rows
+mypar                   mypar
+peek                    peek at the top of a text file
+qcut                    quantile cut
+rafalib                 rafalib
+sboxplot                smart boxplot
+shist                   smart histogram
+splot                   smart plot
+whatMethods             What generics are defined for this S4 object?
